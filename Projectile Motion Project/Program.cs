@@ -1,3 +1,3 @@
 ﻿
-using var game = new Projectile_Motion_Project.Game1();
+using var game = new Projectile_Motion_Project.Main();
 game.Run();
